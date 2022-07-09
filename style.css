@@ -1,0 +1,805 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nanum+Gothic+Coding:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+header img {
+    float: left;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    
+  width: 100%;
+}
+
+
+header {
+  width: 1027px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.uou {
+  width: 100%;
+  float: left;
+  
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+
+article.J {
+  float: left;
+}
+
+
+a.appps {
+  background-color: #FFAD00;
+  padding: 12px 32px;
+  border-radius: 6px;
+  font-size: 20px;
+}
+
+
+
+
+img.imh {
+  width: 194px;
+  border: 5px solid #901515;
+  display: inline-block;
+margin-bottom: 24px;}
+
+p.Text1 {
+  text-align: initial;
+font-size: 20px;}
+
+
+
+
+
+.header-background {
+  background: url(/images/shapka.jpg);
+  width: 100%;
+  float: left;
+  height: 100px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+
+span.TTT {
+  background-color: #e2e2c1;
+}
+
+
+nav * {
+  float: left;
+  list-style: none;
+padding: 0;}
+
+nav a {
+  color: white;
+  padding: 0px 44px;
+  text-align: center;
+}
+
+
+.img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid darkred;
+    margin: 0px 0px 0px 19px;
+}
+
+a.Dowlands {
+  padding: 12px 32px;
+  border-radius: 10px;
+  background-color: #ffad00;
+  display: inline-block;
+  margin-top: 24px;
+}
+
+
+a.Dowlandsss {
+  padding: 24px 44px;
+  border-radius: 14px;
+  background-color: #ffad00;
+  display: inline-block;
+  margin-top: 24px;
+font-size: 24px;}
+
+
+a {
+    text-decoration: none;
+    color: #080000;
+    /* margin: 135px; */
+}
+nav {
+    width: 100%;background: #B11212;
+    /* display: inline-block; */
+    /* position: fixed; */
+    /* margin: 0; */
+    
+    
+    /* transform: translate(-50%, -50%); */
+z-index: 99;float: left;clear: both;margin-top: 100px;display: flex;justify-content: space-evenly;}
+
+main {
+    margin: 74px auto;
+    width: 1027px;
+    
+min-height: 800px;}
+
+
+.articleYYY {
+  text-align: center;
+}
+
+
+footer {
+    
+    /* padding: 20px; */display: flex;width: 1027px;
+    height: 100px;
+    /* top: 98%; */
+    
+    background: #B11212;
+    /* display: inline-block; */
+    position: relative;
+    margin: auto;
+    /* left: 50%; */
+    /* margin-right: -50%; */
+    /* transform: translate(-50%, -50%); */margin-top: 30px;flex-direction: row;justify-content: space-between;}
+
+.pad1 {
+    background: white;
+    margin: 0;
+}
+
+.pad2 {
+    background: white;
+    margin: 0;
+}
+
+.pad3 {
+    background: white;
+    margin: 0;
+}
+
+p {
+    text-align: center;
+font-size: 16px;}
+
+#Q {
+    text-align: left;
+    margin: 28px 0 0 5px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+#A {
+    /* text-align: right; */
+    margin: 0;
+    font-size: 16px;
+    display: inline-block;
+    /* float: right; */
+}
+
+#Y {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 48px 0px 0px 0px;
+}
+
+#ASD {
+    font-size: 18px;
+margin: 30px 0 60px 0;}
+
+#ASD1 {
+  font-size: 24px;
+}
+
+#AA {
+    /* text-align: right; */
+    margin: 0px;
+    font-size: 14px;
+    /* display: inline-block; */
+    /* float: right; */
+    color: #e4ff00;
+    /* text-decoration: none; */
+    -webkit-transition: all 1s ease;
+            transition: all 0.7s ease; /* Время изменения цвета */
+}
+#AA:hover{
+    color: #00ffff; /* Меняем цвет ссылки */
+}
+
+
+
+
+#AAA {
+    /* text-align: right; */
+    margin: 0;
+    font-size: 14px;
+    /* display: inline-block; */
+    /* float: right; */
+    color: aqua;
+    /* text-decoration: none; */
+    -webkit-transition: all 1s ease;
+            transition: all 0.7s ease; /* Время изменения цвета */
+}
+#AAA:hover{
+    color: #e4ff00; /* Меняем цвет ссылки */
+}
+
+
+
+#AAAA {
+    /* text-align: right; */
+    margin: 0;
+    font-size: 14px;
+    /* display: inline-block; */
+    /* float: right; */
+    color: #e4ff00;
+    /* text-decoration: none; */
+    -webkit-transition: all 1s ease;
+            transition: all 0.7s ease; /* Время изменения цвета */
+}
+#AAAA:hover{
+    color: #00ffff; /* Меняем цвет ссылки */
+}
+
+
+
+.change-color-link{
+    color: #ffffff;
+    line-height: 30px;
+    text-decoration: none;
+    -webkit-transition: all 1s ease;
+            transition: all 1s ease; /* Время изменения цвета */
+font-size: 22px;font-weight: 600;}
+
+.change-color-link:hover{
+    color: #00ffff; /* Меняем цвет ссылки */
+}
+
+
+
+
+.rotate-right {
+    transform: rotate(90deg);
+    width: 100%;
+    
+
+      margin: 752px auto;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pfa {
+    position: relative;
+    
+  display: inline-block;}
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 51%;
+    height: 100%;
+    /* background: rgb(0 0 0 / 50%); */ /* Настройка цвета и прозрачности для блока с заголовком */
+    transition: background 0.5s ease;
+  }
+  .pfa:hover .overlay {
+    display: block;
+    background: rgba(0, 0, 0, 0.9); /* Настройка цвета и прозрачности для блока с заголовком при наведении */
+  }
+  .title {
+    position: absolute;
+    width: 50%;
+    left: 0;
+    top: 25%; /* Отступ сверху */
+    font-size: 1.900em; /* Размер текста заголовка */
+    text-align: center;
+    text-transform: uppercase; /* Заглавные буквы */
+    color: white; /* Цвет заголовка */
+    z-index: 1;
+    transition: top .5s ease;
+  }
+  .pfa:hover .title {
+    top: 20%; /* Отступ сверху при наведении */
+  }
+  .button {
+    position: absolute;
+    width: 50%;
+    left:0;
+    top: 65%; /* Отступ сверху */
+    text-align: center;
+    opacity: 0;
+    transition: opacity .35s ease;
+  }
+  .button a {
+    padding: 15px 40px; /* Отступ */
+    text-align: center;
+    background: #ff921e; /* Цвет кнопки */
+    color: white; /* Цвет текста */
+    border: 1px solid white; /* Ширина, стиль и цвет границы */
+    z-index: 1; 
+  }
+  .pfa:hover .button {
+    opacity: 1;
+  }
+
+
+
+
+
+  .pf {
+    position: relative;
+    
+  display: inline-block;}
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 51%;
+    height: 100%;
+    /* background: rgb(0 0 0 / 50%); */ /* Настройка цвета и прозрачности для блока с заголовком */
+    transition: background 0.5s ease;
+  }
+  .pf:hover .overlay {
+    display: block;
+    background: rgba(0, 0, 0, 0.9); /* Настройка цвета и прозрачности для блока с заголовком при наведении */
+  }
+  .title {
+    position: absolute;
+    width: 50%;
+    left: 0;
+    top: 25%; /* Отступ сверху */
+    font-size: 1.900em; /* Размер текста заголовка */
+    text-align: center;
+    text-transform: uppercase; /* Заглавные буквы */
+    color: white; /* Цвет заголовка */
+    z-index: 1;
+    transition: top .5s ease;
+  }
+  .pf:hover .title {
+    top: 20%; /* Отступ сверху при наведении */
+  }
+  .button {
+    position: absolute;
+    width: 50%;
+    left:0;
+    top: 65%; /* Отступ сверху */
+    text-align: center;
+    opacity: 0;
+    transition: opacity .35s ease;
+  }
+  .button a {
+    padding: 15px 40px; /* Отступ */
+    text-align: center;
+    background: #ff921e; /* Цвет кнопки */
+    color: white; /* Цвет текста */
+    border: 1px solid white; /* Ширина, стиль и цвет границы */
+    z-index: 1; 
+  }
+  .pf:hover .button {
+    opacity: 1;
+  }
+
+
+.TTTII {
+  background: black;
+}
+
+
+
+
+  .p {
+    position: relative;
+    
+  display: inline-block;}
+  .overlay {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    width: 94%;
+    height: 99%;
+    /* background: rgb(0 0 0 / 50%); */ /* Настройка цвета и прозрачности для блока с заголовком */
+    transition: background 0.5s ease;
+  }
+  .p:hover .overlay {
+    display: block;
+    background: rgba(0, 0, 0, 0.9); /* Настройка цвета и прозрачности для блока с заголовком при наведении */
+  }
+  .title {
+    position: absolute;
+    width: 50%;
+    left: 93px;
+    top: -19%; /* Отступ сверху */
+    font-size: 1.9em; /* Размер текста заголовка */
+    text-align: center;
+    text-transform: uppercase; /* Заглавные буквы */
+    color: #5400ff; /* Цвет заголовка */
+    z-index: 1;
+    transition: top .5s ease;
+  }
+  .p:hover .title {
+    top: 20%; /* Отступ сверху при наведении */
+  }
+  .button {
+    position: absolute;
+    width: 170%;
+    left: -110px;
+    top: 54%; /* Отступ сверху */
+    text-align: center;
+    opacity: 0;
+    transition: opacity .35s ease;
+  }
+  .button a {
+    padding: 15px 40px; /* Отступ */
+    text-align: center;
+    background: #ff921e; /* Цвет кнопки */
+    color: white; /* Цвет текста */
+    border: 1px solid white; /* Ширина, стиль и цвет границы */
+    z-index: 1; 
+  }
+  .p:hover .button {
+    opacity: 1;
+  }
+
+
+  section {
+    display: inline-block;
+    margin: 2px 14px 0px 64px;
+}
+
+h4#seven {
+    text-align: center;
+}
+
+h4#neseven {
+    text-align: center;
+}
+
+
+
+
+
+
+  body {
+    background-color: #24292d;
+  }
+  
+  .slider {
+    position: relative;
+    width: 680px;
+    margin: 46px auto;
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+  height: 478px;}
+  
+  .slider input[name="switch"] {
+    display: none;
+  }
+  
+  .switch {
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .switch label {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    margin: 0 3px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .8);
+    border-radius: 50%;
+    border: 5px solid #2f363c;
+    background-color: #738290;
+  }
+  
+  #btn1:checked~.switch label[for="btn1"] {
+    background-color: white;
+  }
+  
+  #btn2:checked~.switch label[for="btn2"] {
+    background-color: white;
+  }
+  
+  #btn3:checked~.switch label[for="btn3"] {
+    background-color: white;
+  }
+
+  .slider-inner {
+    overflow: hidden;
+  }
+  
+  .slides {
+    width: 300%;
+    transition: all 0.5s;
+  }
+  
+  .slides img {
+    width: 680px;
+    height: 478px;
+    float: left;
+  }
+  
+  #btn1:checked~slider-inner slides {
+    transform: translate(0);
+  }
+  
+  #btn2:checked~.slider-inner .slides {
+    transform: translate(-680px);
+  }
+  
+  #btn3:checked~.slider-inner .slides {
+    transform: translate(-1360px);
+  }
+
+
+#D1 {
+  
+  font-size: 100px;color: red;
+}
+
+
+
+
+
+p.l{
+   /* Размер шрифта */
+   /* Цвет заголовка */
+  text-align: center; /* Текст по центру */
+}
+/*  CSS код для линии над заголовком */
+p.l:before {
+  content: '';
+  display: block;
+  height: 3px; /* Высота линии */
+  background: #ffffff; /* Цвет линии */
+  width: 648px; /* Ширина линии до наведения */
+  margin: 0 auto 3px; /* Отступ с боков по центру и снизу */
+transition: 1s; /* Время, за которое линия возвращается после наведения */
+}
+p.l:hover:before {
+  width: 744px; /* Ширина линии при наведении */
+transition: ease-out 1s; /* Время, за которое линия расширяется при наведении */
+}
+/*  CSS код для линии под заголовком */
+p.l:after {
+  content: '';
+  display: block;
+  height: 3px; /* Высота линии */
+  background: #f66d52; /* Цвет линии */
+  width: 648px; /* Ширина линии до наведения */
+  margin: 3px auto 0; /* Отступ с боков по центру и сверху */
+transition: 1s; /* Время, за которое линия возвращается после наведения */
+}
+p.l:hover:after {
+  width: 744px; /* Ширина линии при наведении */
+  transition: ease-out 1s; /* Время, за которое линия расширяется при наведении */
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 760px) {
+  main {
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+}
+
+}
+@media (max-width: 361px) {
+
+}
+
+
+
+.top-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #00BAF0;
+  background: linear-gradient(to left, #f46b45, #eea849);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #FFF;
+  height: 50px;
+  padding: 1em;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+/* display: none; */}
+
+.menu > li {
+  margin: 0 1rem;
+  overflow: hidden;
+}
+
+.menu-button-container {
+  display: none;
+  height: 100%;
+  width: 30px;
+  cursor: pointer;
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.menu-button,
+.menu-button::before,
+.menu-button::after {
+  display: block;
+  background-color: #f00;
+  position: absolute;
+  height: 4px;
+  width: 30px;
+  transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  border-radius: 2px;
+}
+
+.menu-button::before {
+  content: '';
+  margin-top: -8px;
+}
+
+.menu-button::after {
+  content: '';
+  margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+footer div {
+  padding: 20px;
+  color: white;
+  font-weight: 500;
+}
+
+.Social {
+  display: flex;
+  flex-direction: column;
+padding-right: 40px;}
+
+.Social ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+display: flex;align-items: center;flex-direction: column;}
+
+.Social a {
+  color: white;
+}
+
+.Social li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+align-items: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-toggle:checked + .menu-button-container .menu-button::before {
+  margin-top: 0px;
+  transform: rotate(405deg);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button {
+  background: rgba(255, 255, 255, 0);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::after {
+  margin-top: 0px;
+  transform: rotate(-405deg);
+}
+
+@media (max-width: 1050px) {
+  header, footer, main {
+    width: 98%;
+  }
+}
+
+@media (max-width: 735px) {
+  header nav { 
+    display: none;
+  }
+  .menu-button-container {
+    display: flex;
+  z-index: 999;margin-top: 120px;/* background: red; */float: right;margin-bottom: 20px;right: 15px;position: absolute;}
+  .menu {
+    position: absolute;
+    top: 114px;
+    margin-top: 50px;
+    left: 0;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  z-index: 999;}
+  #menu-toggle ~ .menu li {
+    height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  #menu-toggle:checked ~ .menu li {
+    border: 1px solid #000000;
+    
+    padding: initial;
+    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  height: auto;}
+  .menu > li {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0.5em 0;
+    width: 100%;
+    color: white;
+    background-color: #b11212;
+  }
+  .menu > li:not(:last-child) {
+    border-bottom: 1px solid #444;
+  }
+}
